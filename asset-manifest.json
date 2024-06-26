@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/draggableComponentEx1/static/css/main.946a2dcd.css",
+    "main.js": "/draggableComponentEx1/static/js/main.092825e8.js",
+    "index.html": "/draggableComponentEx1/index.html",
+    "main.946a2dcd.css.map": "/draggableComponentEx1/static/css/main.946a2dcd.css.map",
+    "main.092825e8.js.map": "/draggableComponentEx1/static/js/main.092825e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.946a2dcd.css",
+    "static/js/main.092825e8.js"
+  ]
+}
